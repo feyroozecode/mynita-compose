@@ -1,3 +1,4 @@
+# Just a Hoby clone of Money Transfer App to higlight Jetpack Compose Project with good architecture 
 # Building and Running the App in Android Studio
 
 This guide provides instructions on how to build and run the app in Android Studio.
